@@ -1,0 +1,20 @@
+.ticker {
+ display: inline-block;
+   position: relative; width: 330px; border-bottom: 1px solid #fff;
+  overflow: hidden;    vertical-align: top;
+   text-transform: capitalize;
+}
+
+.ticker ul { padding: 0px; margin: 0px;
+  width: 100%;
+  position: relative;
+}
+
+.ticker ul li {   
+  width: 100%;
+  display: none;
+}
+
+p:empty{ display: none; }
+
+.typed-heading p{ display: inline-block; margin: 0px; }

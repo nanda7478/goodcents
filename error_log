@@ -1,0 +1,132 @@
+[15-Feb-2018 09:25:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_content() in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php:6
+Stack trace:
+#0 /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-includes/template-loader.php(74): include()
+#1 /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-blog-header.php(19): require_once('/home4/trimurty...')
+#2 /home4/trimurty/public_html/demosrvr.com/wp/goodcents/index.php(17): require('/home4/trimurty...')
+#3 {main}
+  thrown in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 6
+[15-Feb-2018 10:08:59 UTC] PHP Warning:  Illegal string offset 'url' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 11
+[15-Feb-2018 10:08:59 UTC] PHP Warning:  Illegal string offset 'alt' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 11
+[15-Feb-2018 10:18:05 UTC] PHP Warning:  Illegal string offset 'url' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 11
+[15-Feb-2018 10:18:05 UTC] PHP Warning:  Illegal string offset 'alt' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 11
+[15-Feb-2018 10:19:29 UTC] PHP Warning:  Illegal string offset 'url' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 11
+[15-Feb-2018 10:19:29 UTC] PHP Warning:  Illegal string offset 'alt' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 11
+[15-Feb-2018 10:20:16 UTC] PHP Warning:  Illegal string offset 'url' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 11
+[15-Feb-2018 10:20:16 UTC] PHP Warning:  Illegal string offset 'alt' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 11
+[15-Feb-2018 10:20:31 UTC] PHP Warning:  Illegal string offset 'url' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 11
+[15-Feb-2018 10:20:31 UTC] PHP Warning:  Illegal string offset 'alt' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 11
+[15-Feb-2018 10:20:37 UTC] PHP Warning:  Illegal string offset 'url' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 11
+[15-Feb-2018 10:20:37 UTC] PHP Warning:  Illegal string offset 'alt' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 11
+[16-Feb-2018 05:12:20 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 115
+[16-Feb-2018 05:23:09 UTC] PHP Parse error:  syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 122
+[16-Feb-2018 05:23:15 UTC] PHP Parse error:  syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 122
+[16-Feb-2018 05:23:28 UTC] PHP Parse error:  syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 122
+[16-Feb-2018 05:23:31 UTC] PHP Parse error:  syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 122
+[16-Feb-2018 05:23:32 UTC] PHP Parse error:  syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 122
+[16-Feb-2018 09:14:45 UTC] PHP Fatal error:  Cannot redeclare twentysixteen_widgets_init() (previously declared in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/functions.php:4) in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents/functions.php on line 184
+[19-Feb-2018 05:12:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 110
+[19-Feb-2018 05:27:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 28
+[19-Feb-2018 05:27:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 38
+[20-Feb-2018 09:51:51 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 151
+[20-Feb-2018 09:52:41 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 151
+[20-Feb-2018 10:06:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 46
+[20-Feb-2018 10:06:20 UTC] PHP Warning:  Illegal string offset 'sizes' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 48
+[20-Feb-2018 10:06:20 UTC] PHP Warning:  Illegal string offset 'thumbnail' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 48
+[20-Feb-2018 10:06:20 UTC] PHP Warning:  Illegal string offset 'alt' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 48
+[20-Feb-2018 10:06:20 UTC] PHP Warning:  Illegal string offset 'sizes' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 48
+[20-Feb-2018 10:06:20 UTC] PHP Warning:  Illegal string offset 'thumbnail' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 48
+[20-Feb-2018 10:06:20 UTC] PHP Warning:  Illegal string offset 'alt' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 48
+[20-Feb-2018 10:06:20 UTC] PHP Warning:  Illegal string offset 'sizes' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 48
+[20-Feb-2018 10:06:20 UTC] PHP Warning:  Illegal string offset 'thumbnail' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 48
+[20-Feb-2018 10:06:20 UTC] PHP Warning:  Illegal string offset 'alt' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 48
+[20-Feb-2018 10:06:20 UTC] PHP Warning:  Illegal string offset 'sizes' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 48
+[20-Feb-2018 10:06:20 UTC] PHP Warning:  Illegal string offset 'thumbnail' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 48
+[20-Feb-2018 10:06:20 UTC] PHP Warning:  Illegal string offset 'alt' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 48
+[20-Feb-2018 10:06:20 UTC] PHP Warning:  Illegal string offset 'sizes' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 48
+[20-Feb-2018 10:06:20 UTC] PHP Warning:  Illegal string offset 'thumbnail' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 48
+[20-Feb-2018 10:06:20 UTC] PHP Warning:  Illegal string offset 'alt' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 48
+[20-Feb-2018 10:06:20 UTC] PHP Warning:  Illegal string offset 'sizes' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 48
+[20-Feb-2018 10:06:20 UTC] PHP Warning:  Illegal string offset 'thumbnail' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 48
+[20-Feb-2018 10:06:20 UTC] PHP Warning:  Illegal string offset 'alt' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 48
+[20-Feb-2018 10:06:20 UTC] PHP Warning:  Illegal string offset 'sizes' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 48
+[20-Feb-2018 10:06:20 UTC] PHP Warning:  Illegal string offset 'thumbnail' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 48
+[20-Feb-2018 10:06:20 UTC] PHP Warning:  Illegal string offset 'alt' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 48
+[20-Feb-2018 10:06:20 UTC] PHP Warning:  Illegal string offset 'sizes' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 48
+[20-Feb-2018 10:06:20 UTC] PHP Warning:  Illegal string offset 'thumbnail' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 48
+[20-Feb-2018 10:06:20 UTC] PHP Warning:  Illegal string offset 'alt' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 48
+[20-Feb-2018 10:06:20 UTC] PHP Warning:  Illegal string offset 'sizes' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 48
+[20-Feb-2018 10:06:20 UTC] PHP Warning:  Illegal string offset 'thumbnail' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 48
+[20-Feb-2018 10:06:20 UTC] PHP Warning:  Illegal string offset 'alt' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 48
+[20-Feb-2018 10:06:20 UTC] PHP Warning:  Illegal string offset 'sizes' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 48
+[20-Feb-2018 10:06:20 UTC] PHP Warning:  Illegal string offset 'thumbnail' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 48
+[20-Feb-2018 10:06:20 UTC] PHP Warning:  Illegal string offset 'alt' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 48
+[20-Feb-2018 10:06:20 UTC] PHP Warning:  Illegal string offset 'sizes' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 48
+[20-Feb-2018 10:06:20 UTC] PHP Warning:  Illegal string offset 'thumbnail' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 48
+[20-Feb-2018 10:06:20 UTC] PHP Warning:  Illegal string offset 'alt' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 48
+[20-Feb-2018 10:06:20 UTC] PHP Warning:  Illegal string offset 'sizes' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 48
+[20-Feb-2018 10:06:20 UTC] PHP Warning:  Illegal string offset 'thumbnail' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 48
+[20-Feb-2018 10:06:20 UTC] PHP Warning:  Illegal string offset 'alt' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 48
+[20-Feb-2018 10:06:20 UTC] PHP Warning:  Illegal string offset 'sizes' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 48
+[20-Feb-2018 10:06:20 UTC] PHP Warning:  Illegal string offset 'thumbnail' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 48
+[20-Feb-2018 10:06:20 UTC] PHP Warning:  Illegal string offset 'alt' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 48
+[20-Feb-2018 11:00:35 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/app_storage.php on line 18
+[20-Feb-2018 11:01:04 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/app_storage.php on line 18
+[20-Feb-2018 11:01:12 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/app_storage.php on line 18
+[20-Feb-2018 12:08:05 UTC] PHP Parse error:  syntax error, unexpected '*' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 85
+[20-Feb-2018 12:08:32 UTC] PHP Parse error:  syntax error, unexpected '*' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 85
+[20-Feb-2018 12:08:35 UTC] PHP Parse error:  syntax error, unexpected '*' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 85
+[20-Feb-2018 12:08:39 UTC] PHP Parse error:  syntax error, unexpected '*' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 85
+[20-Feb-2018 12:08:41 UTC] PHP Parse error:  syntax error, unexpected '*' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 85
+[21-Feb-2018 05:55:20 UTC] PHP Parse error:  syntax error, unexpected '/' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 35
+[21-Feb-2018 08:27:39 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/about.php on line 103
+[21-Feb-2018 08:27:42 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/about.php on line 103
+[21-Feb-2018 08:53:34 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/about.php on line 83
+[21-Feb-2018 08:54:34 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/about.php on line 90
+[21-Feb-2018 09:48:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/charity.php on line 209
+[21-Feb-2018 09:48:42 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/charity.php on line 209
+[22-Feb-2018 05:35:48 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/why.php on line 143
+[22-Feb-2018 05:35:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/why.php on line 143
+[22-Feb-2018 13:43:44 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND) in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/footer.php on line 97
+[22-Feb-2018 13:44:23 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND) in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/footer.php on line 97
+[22-Feb-2018 13:44:39 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND) in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/footer.php on line 97
+[22-Feb-2018 13:44:44 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND) in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/footer.php on line 97
+[23-Feb-2018 07:02:18 UTC] PHP Warning:  date() expects at least 1 parameter, 0 given in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/footer.php on line 86
+[23-Feb-2018 07:02:20 UTC] PHP Warning:  date() expects at least 1 parameter, 0 given in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/footer.php on line 86
+[23-Feb-2018 07:32:36 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 245
+[23-Feb-2018 07:53:37 UTC] PHP Parse error:  syntax error, unexpected '$image' (T_VARIABLE) in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 47
+[23-Feb-2018 08:31:33 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 322
+[23-Feb-2018 08:31:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 322
+[23-Feb-2018 08:32:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/home.php on line 322
+[23-Feb-2018 09:38:16 UTC] PHP Parse error:  syntax error, unexpected '}' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/plugins/testimonialslider/index.php on line 146
+[26-Feb-2018 09:39:26 UTC] PHP Parse error:  syntax error, unexpected ')' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/hom1.php on line 191
+[26-Feb-2018 09:39:58 UTC] PHP Parse error:  syntax error, unexpected ')' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/hom1.php on line 191
+[26-Feb-2018 09:40:02 UTC] PHP Parse error:  syntax error, unexpected ')' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/hom1.php on line 191
+[26-Feb-2018 10:08:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/hom1.php on line 197
+[26-Feb-2018 10:08:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/hom1.php on line 197
+[26-Feb-2018 10:10:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/hom1.php on line 408
+[26-Feb-2018 10:11:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/hom1.php on line 192
+[26-Feb-2018 10:11:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/hom1.php on line 198
+[26-Feb-2018 10:12:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/hom1.php on line 192
+[26-Feb-2018 10:12:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/hom1.php on line 198
+[26-Feb-2018 10:12:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/hom1.php on line 192
+[26-Feb-2018 10:12:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/hom1.php on line 198
+[26-Feb-2018 10:12:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/hom1.php on line 192
+[26-Feb-2018 10:12:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/hom1.php on line 198
+[26-Feb-2018 10:29:56 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/hom1.php on line 25
+[26-Feb-2018 10:30:55 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/plugins/advanced-custom-fields-pro/api/api-template.php on line 598
+[26-Feb-2018 10:31:28 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/plugins/advanced-custom-fields-pro/api/api-template.php on line 85
+[26-Feb-2018 10:36:43 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/hom1.php on line 197
+[26-Feb-2018 10:36:43 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/hom1.php on line 197
+[26-Feb-2018 10:45:57 UTC] PHP Parse error:  syntax error, unexpected '}' in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/hom1.php on line 33
+[26-Feb-2018 10:59:22 UTC] PHP Parse error:  syntax error, unexpected '$array2' (T_VARIABLE) in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/hom1.php on line 32
+[26-Feb-2018 11:02:53 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/hom1.php on line 49
+[26-Feb-2018 11:04:23 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/hom1.php on line 49
+[26-Feb-2018 11:07:35 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/hom1.php on line 214
+[26-Feb-2018 11:10:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/hom1.php on line 41
+[26-Feb-2018 11:10:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/hom1.php on line 48
+[26-Feb-2018 11:18:19 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/hom1.php on line 216
+[26-Feb-2018 11:19:36 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/hom1.php on line 216
+[26-Feb-2018 11:19:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/hom1.php on line 43
+[26-Feb-2018 11:19:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/trimurty/public_html/demosrvr.com/wp/goodcents/wp-content/themes/goodcents-child/hom1.php on line 50
+[27-Feb-2018 06:48:23 UTC] Catched error in Ressio_CssCombiner::combine: Unprocessed @import rule in link style [in file: https://use.typekit.net/iwq6hqd.css]
+[27-Feb-2018 06:50:05 UTC] Catched error in Ressio_CssCombiner::combine: Unprocessed @import rule in link style [in file: https://use.typekit.net/iwq6hqd.css]
